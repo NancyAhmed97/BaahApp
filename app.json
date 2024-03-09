@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "BaahApp",
-    "slug": "BaahApp",
+    "name": "Quastions",
+    "slug": "Quastions",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
